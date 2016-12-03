@@ -7,6 +7,7 @@ twitter_username: _edennis
 github_username:  edennis
 disqus:
   shortname: edennis
+google_analytics: UA-88352173-1
 
 # Build settings
 markdown: kramdown
